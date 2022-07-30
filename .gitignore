@@ -1,0 +1,6 @@
+*.txt
+*.pyc
+*.pkl
+answer/
+figures/
+.vscode/
